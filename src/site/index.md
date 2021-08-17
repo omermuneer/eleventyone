@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Fakhir Shaheen
+subtitle: Helping Fakhir create a space for his course files and on-going experiments.<br /> Made by <a href="https://twitter.com/omermuneer">Omer</a> for <a href="https://twitter.com/fakhirshaheen">Fakhir</a>, perhaps he might find it useful.
 layout: layouts/base.njk
 ---
 
